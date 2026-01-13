@@ -1,2 +1,1 @@
-# SCD-TASK
-LAB 13
+This repository contains SCD lab work.
